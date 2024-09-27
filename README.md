@@ -151,26 +151,3 @@ A API do projeto é documentada utilizando o Swagger. Para acessar a documentaç
 	+ `DELETE /extratos/{id}`: exclui um extrato
 
 
-**Autores**
----------
-
-### Autor 1: Maria Gabriela
-
-* GitHub: [https://github.com/gabriela-silv](https://github.com/gabriela-silv)
-* Contribuições: Desenvolvimento da API e desenvolvimebnto e implementação do front-end
-
-### Autor 2: Messias Ramon
-
-* GitHub: [https://github.com/MessiasRamom](https://github.com/MessiasRamom)
-* Contribuições: Desenvolvimento da lógica de negócio, documentação e implementação do sistema
-
-### Autor 3: Michele Santos
-
-* GitHub: [https://github.com/michelesm](https://github.com/michelesm)
-* Contribuições: Desenvolvimento do back-end e testes unitários
-
-
-**Agradecimentos**
-------------
-
-A Accenture por realizar a Academia Java
